@@ -25,3 +25,6 @@
 - **AI**: OpenAI API
 - **Icons & UI**: Lucide, Sonner, @uiw/react-md-editor
 
+## 🌐 Live Demo
+
+
